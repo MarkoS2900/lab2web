@@ -13,7 +13,7 @@
     <name>lab2web</name>
     <description>lab2web</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>17.0.2</java.version>
     </properties>
     <dependencies>
         <dependency>
